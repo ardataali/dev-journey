@@ -1,8 +1,16 @@
-# dev-journey
+# \# dev-journey
 
-My learning path, code experiments, and project milestones.
+# 
 
+# My personal development workspace for software engineering, AI-assisted workflows, and academic milestones.
 
+# 
 
-İlk commit denemesi başarılı!
+# \### Focus Areas
+
+# \- Python \& Algorithmic Problem Solving
+
+# \- AI Integration \& LLM Architectures
+
+# \- Web Development Foundations
 
